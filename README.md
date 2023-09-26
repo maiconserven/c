@@ -1,2 +1,2 @@
-# c
+# cursopython
 cursopython
